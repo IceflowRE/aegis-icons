@@ -1844,6 +1844,14 @@
             ]
         },
         {
+            "name": "Forgejo",
+            "filename": "icons/1_Primary/Forgejo.svg",
+            "category": null,
+            "issuer": [
+                "Forgejo"
+            ]
+        },
+        {
             "name": "Formspree",
             "filename": "icons/1_Primary/Formspree.svg",
             "category": null,
