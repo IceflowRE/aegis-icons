@@ -2332,6 +2332,14 @@
             ]
         },
         {
+            "name": "HHU",
+            "filename": "icons/1_Primary/HHU.svg",
+            "category": null,
+            "issuer": [
+                "HHU"
+            ]
+        },
+        {
             "name": "Hiven",
             "filename": "icons/1_Primary/Hiven.svg",
             "category": null,
