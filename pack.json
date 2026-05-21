@@ -796,6 +796,14 @@
             ]
         },
         {
+            "name": "Bundesagentur für Arbeit",
+            "filename": "icons/1_Primary/Bundesagentur für Arbeit.svg",
+            "category": null,
+            "issuer": [
+                "arbeitsagentur.de"
+            ]
+        },
+        {
             "name": "CAPCOM ID",
             "filename": "icons/1_Primary/CAPCOM ID.svg",
             "category": null,
