@@ -12,6 +12,14 @@
             ]
         },
         {
+            "name": "1&1",
+            "filename": "icons/1_Primary/1&1.svg",
+            "category": null,
+            "issuer": [
+                "1&1"
+            ]
+        },
+        {
             "name": "1040.com",
             "filename": "icons/1_Primary/1040.com.svg",
             "category": null,
