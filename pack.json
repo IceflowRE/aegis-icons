@@ -1924,6 +1924,15 @@
             ]
         },
         {
+            "name": "Godot",
+            "filename": "icons/1_Primary/Godot.svg",
+            "category": null,
+            "issuer": [
+                "Godot",
+                "Godot Account Signin"
+            ]
+        },
+        {
             "name": "GOG.com",
             "filename": "icons/1_Primary/GOG.com.svg",
             "category": null,
