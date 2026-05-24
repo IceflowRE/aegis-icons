@@ -5300,6 +5300,14 @@
             ]
         },
         {
+            "name": "TH OWL",
+            "filename": "icons/1_Primary/TH OWL.svg",
+            "category": null,
+            "issuer": [
+                "TH OWL"
+            ]
+        },
+        {
             "name": "TP-Link",
             "filename": "icons/1_Primary/TP-Link.svg",
             "category": null,
