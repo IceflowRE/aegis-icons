@@ -3,5 +3,87 @@
     "name": "iceflower-icons",
     "version": 0,
     "icons": [
+        {
+            "name": "1&1",
+            "filename": "icons/1_Primary/1_und_1.svg",
+            "category": null,
+            "issuer": [
+                "1&1"
+            ]
+        },
+        {
+            "name": "Bundesagentur für Arbeit",
+            "filename": "icons/1_Primary/Bundesagentur fuer Arbeit.svg",
+            "category": null,
+            "issuer": [
+                "Bundesagentur für Arbeit",
+                "arbeitsagentur.de"
+            ]
+        },
+        {
+            "name": "Forgejo",
+            "filename": "icons/1_Primary/Forgejo.svg",
+            "category": null,
+            "issuer": [
+                "Forgejo"
+            ]
+        },
+        {
+            "name": "Godot",
+            "filename": "icons/1_Primary/Godot.svg",
+            "category": null,
+            "issuer": [
+                "Godot",
+                "Godot Account Signin"
+            ]
+        },
+        {
+            "name": "HHU",
+            "filename": "icons/1_Primary/HHU.svg",
+            "category": null,
+            "issuer": [
+                "HHU"
+            ]
+        },
+        {
+            "name": "Tanki Online",
+            "filename": "icons/1_Primary/Tanki Online.svg",
+            "category": null,
+            "issuer": [
+                "Tanki Online"
+            ]
+        },
+        {
+            "name": "TH OWL",
+            "filename": "icons/1_Primary/TH OWL.svg",
+            "category": null,
+            "issuer": [
+                "TH OWL"
+            ]
+        },
+        {
+            "name": "WireGuard",
+            "filename": "icons/1_Primary/WireGuard.svg",
+            "category": null,
+            "issuer": [
+                "WireGuard"
+            ]
+        },
+        {
+            "name": "Wüstenrot",
+            "filename": "icons/1_Primary/Wuestenrot.svg",
+            "category": null,
+            "issuer": [
+                "Wüstenrot"
+            ]
+        },
+        {
+            "name": "Tanki Online fg.var",
+            "filename": "icons/2_Variations/Tanki Online fg.var.svg",
+            "category": null,
+            "issuer": [
+                "Tanki Online fg.var"
+            ]
+        }
     ]
 }
