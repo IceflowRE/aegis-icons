@@ -6188,6 +6188,14 @@
             ]
         },
         {
+            "name": "Wüstenrot",
+            "filename": "icons/1_Primary/Wuestenrot.svg",
+            "category": null,
+            "issuer": [
+                "Wüstenrot"
+            ]
+        },
+        {
             "name": "Wuxiaworld",
             "filename": "icons/1_Primary/Wuxiaworld.svg",
             "category": null,
